@@ -14,9 +14,9 @@
 <link rel="alternate" type="application/rss+xml" title="Hanaclean &raquo; Feed" href="http://207.148.120.189/feed/" />
 <link rel="alternate" type="application/rss+xml" title="Hanaclean &raquo; Comments Feed" href="http://207.148.120.189/comments/feed/" />
 <link rel="alternate" type="application/rss+xml" title="Hanaclean &raquo; Dọn nội thất ô tô Tag Feed" href="http://207.148.120.189/tag/don-not-that-oto/feed/" />
-<link rel='stylesheet' id='wp-block-library-css'  href='http://207.148.120.189/wp-includes/css/dist/block-library/style.min.css?ver=5.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='http://207.148.120.189/wp-includes/css/dist/block-library/style.min.css?ver=5.5.2' type='text/css' media='all' />
 <link rel='stylesheet' id='saasland-editor-fonts-css'  href='http://fonts.googleapis.com/css?family=Poppins%3A300%2C400%2C500%2C600%2C700%2C900&#038;subset' type='text/css' media='all' />
-<link rel='stylesheet' id='font-awesome-5-free-css'  href='http://207.148.120.189/wp-content/themes/saasland/assets/vendors/font-awesome/css/all.css?ver=5.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-5-free-css'  href='http://207.148.120.189/wp-content/themes/saasland/assets/vendors/font-awesome/css/all.css?ver=5.5.2' type='text/css' media='all' />
 <link rel='stylesheet' id='advanced-floating-content-css'  href='http://207.148.120.189/wp-content/plugins/advanced-floating-content-lite/public/css/advanced-floating-content-public.css?ver=1.0.0' type='text/css' media='all' />
 <link rel='stylesheet' id='contact-form-7-css'  href='http://207.148.120.189/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.2.2' type='text/css' media='all' />
 <link rel='stylesheet' id='rs-plugin-settings-css'  href='http://207.148.120.189/wp-content/plugins/slider-revolution/public/assets/css/rs6.css?ver=6.2.22' type='text/css' media='all' />
@@ -24,25 +24,25 @@
 #rs-demo-id {}
 </style>
 <link rel='stylesheet' id='saasland-fonts-css'  href='http://fonts.googleapis.com/css?family=Poppins%3A300%2C400%2C500%2C600%2C700%2C900&#038;subset' type='text/css' media='all' />
-<link rel='stylesheet' id='bootstrap-css'  href='http://207.148.120.189/wp-content/themes/saasland/assets/css/bootstrap.min.css?ver=5.5.1' type='text/css' media='all' />
-<link rel='stylesheet' id='themify-icon-css'  href='http://207.148.120.189/wp-content/themes/saasland/assets/vendors/themify-icon/themify-icons.min.css?ver=5.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-css'  href='http://207.148.120.189/wp-content/themes/saasland/assets/css/bootstrap.min.css?ver=5.5.2' type='text/css' media='all' />
+<link rel='stylesheet' id='themify-icon-css'  href='http://207.148.120.189/wp-content/themes/saasland/assets/vendors/themify-icon/themify-icons.min.css?ver=5.5.2' type='text/css' media='all' />
 <link rel='stylesheet' id='elementor-frontend-legacy-css'  href='http://207.148.120.189/wp-content/plugins/elementor/assets/css/frontend-legacy.min.css?ver=3.0.11' type='text/css' media='all' />
 <link rel='stylesheet' id='elementor-frontend-css'  href='http://207.148.120.189/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.0.11' type='text/css' media='all' />
-<link rel='stylesheet' id='saasland-elementor-css'  href='http://207.148.120.189/wp-content/themes/saasland/assets/css/elementor-override.min.css?ver=5.5.1' type='text/css' media='all' />
-<link rel='stylesheet' id='saasland-animate-css'  href='http://207.148.120.189/wp-content/themes/saasland/assets/vendors/animation/animate.css?ver=5.5.1' type='text/css' media='all' />
-<link rel='stylesheet' id='saasland-custom-animations-css'  href='http://207.148.120.189/wp-content/themes/saasland/assets/css/saasland-animations.min.css?ver=5.5.1' type='text/css' media='all' />
-<link rel='stylesheet' id='magnific-popup-css'  href='http://207.148.120.189/wp-content/themes/saasland/assets/vendors/magnify-pop/magnific-popup.min.css?ver=5.5.1' type='text/css' media='all' />
-<link rel='stylesheet' id='eleganticons-css'  href='http://207.148.120.189/wp-content/themes/saasland/assets/vendors/elagent/style.min.css?ver=5.5.1' type='text/css' media='all' />
-<link rel='stylesheet' id='saasland-wpd-css'  href='http://207.148.120.189/wp-content/themes/saasland/assets/css/wpd-style.min.css?ver=5.5.1' type='text/css' media='all' />
-<link rel='stylesheet' id='saasland-main-css'  href='http://207.148.120.189/wp-content/themes/saasland/assets/css/style.min.css?ver=5.5.1' type='text/css' media='all' />
-<link rel='stylesheet' id='saasland-elements-css'  href='http://207.148.120.189/wp-content/themes/saasland/assets/css/elements.min.css?ver=5.5.1' type='text/css' media='all' />
-<link rel='stylesheet' id='saasland-blog-css'  href='http://207.148.120.189/wp-content/themes/saasland/assets/css/blog.min.css?ver=5.5.1' type='text/css' media='all' />
-<link rel='stylesheet' id='saasland-comments-css'  href='http://207.148.120.189/wp-content/themes/saasland/assets/css/comments.min.css?ver=5.5.1' type='text/css' media='all' />
-<link rel='stylesheet' id='saasland-preloader-css'  href='http://207.148.120.189/wp-content/themes/saasland/assets/css/pre-loader.min.css?ver=5.5.1' type='text/css' media='all' />
-<link rel='stylesheet' id='saasland-footer-css'  href='http://207.148.120.189/wp-content/themes/saasland/assets/css/footer.min.css?ver=5.5.1' type='text/css' media='all' />
-<link rel='stylesheet' id='saasland-gutenberg-css'  href='http://207.148.120.189/wp-content/themes/saasland/assets/css/gutenberg.min.css?ver=5.5.1' type='text/css' media='all' />
-<link rel='stylesheet' id='saasland-root-css'  href='http://207.148.120.189/wp-content/themes/saasland/style.css?ver=5.5.1' type='text/css' media='all' />
-<link rel='stylesheet' id='saasland-responsive-css'  href='http://207.148.120.189/wp-content/themes/saasland/assets/css/responsive.min.css?ver=5.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='saasland-elementor-css'  href='http://207.148.120.189/wp-content/themes/saasland/assets/css/elementor-override.min.css?ver=5.5.2' type='text/css' media='all' />
+<link rel='stylesheet' id='saasland-animate-css'  href='http://207.148.120.189/wp-content/themes/saasland/assets/vendors/animation/animate.css?ver=5.5.2' type='text/css' media='all' />
+<link rel='stylesheet' id='saasland-custom-animations-css'  href='http://207.148.120.189/wp-content/themes/saasland/assets/css/saasland-animations.min.css?ver=5.5.2' type='text/css' media='all' />
+<link rel='stylesheet' id='magnific-popup-css'  href='http://207.148.120.189/wp-content/themes/saasland/assets/vendors/magnify-pop/magnific-popup.min.css?ver=5.5.2' type='text/css' media='all' />
+<link rel='stylesheet' id='eleganticons-css'  href='http://207.148.120.189/wp-content/themes/saasland/assets/vendors/elagent/style.min.css?ver=5.5.2' type='text/css' media='all' />
+<link rel='stylesheet' id='saasland-wpd-css'  href='http://207.148.120.189/wp-content/themes/saasland/assets/css/wpd-style.min.css?ver=5.5.2' type='text/css' media='all' />
+<link rel='stylesheet' id='saasland-main-css'  href='http://207.148.120.189/wp-content/themes/saasland/assets/css/style.min.css?ver=5.5.2' type='text/css' media='all' />
+<link rel='stylesheet' id='saasland-elements-css'  href='http://207.148.120.189/wp-content/themes/saasland/assets/css/elements.min.css?ver=5.5.2' type='text/css' media='all' />
+<link rel='stylesheet' id='saasland-blog-css'  href='http://207.148.120.189/wp-content/themes/saasland/assets/css/blog.min.css?ver=5.5.2' type='text/css' media='all' />
+<link rel='stylesheet' id='saasland-comments-css'  href='http://207.148.120.189/wp-content/themes/saasland/assets/css/comments.min.css?ver=5.5.2' type='text/css' media='all' />
+<link rel='stylesheet' id='saasland-preloader-css'  href='http://207.148.120.189/wp-content/themes/saasland/assets/css/pre-loader.min.css?ver=5.5.2' type='text/css' media='all' />
+<link rel='stylesheet' id='saasland-footer-css'  href='http://207.148.120.189/wp-content/themes/saasland/assets/css/footer.min.css?ver=5.5.2' type='text/css' media='all' />
+<link rel='stylesheet' id='saasland-gutenberg-css'  href='http://207.148.120.189/wp-content/themes/saasland/assets/css/gutenberg.min.css?ver=5.5.2' type='text/css' media='all' />
+<link rel='stylesheet' id='saasland-root-css'  href='http://207.148.120.189/wp-content/themes/saasland/style.css?ver=5.5.2' type='text/css' media='all' />
+<link rel='stylesheet' id='saasland-responsive-css'  href='http://207.148.120.189/wp-content/themes/saasland/assets/css/responsive.min.css?ver=5.5.2' type='text/css' media='all' />
 <style id='saasland-responsive-inline-css' type='text/css'>
 .blog_breadcrumb_area{height: 600px;}
             @media (max-width: 991px) {
@@ -71,15 +71,47 @@
                 padding-bottom: px;
             } 
 </style>
-<link rel='stylesheet' id='saasland-responsive2-css'  href='http://207.148.120.189/wp-content/themes/saasland/assets/css/responsive-2.css?ver=5.5.1' type='text/css' media='all' />
-<link rel='stylesheet' id='mCustomScrollbar-css'  href='http://207.148.120.189/wp-content/themes/saasland/assets/vendors/scroll/jquery.mCustomScrollbar.min.css?ver=5.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='saasland-responsive2-css'  href='http://207.148.120.189/wp-content/themes/saasland/assets/css/responsive-2.css?ver=5.5.2' type='text/css' media='all' />
+<link rel='stylesheet' id='mCustomScrollbar-css'  href='http://207.148.120.189/wp-content/themes/saasland/assets/vendors/scroll/jquery.mCustomScrollbar.min.css?ver=5.5.2' type='text/css' media='all' />
 <link rel='stylesheet' id='redux-google-fonts-saasland_opt-css'  href='http://fonts.googleapis.com/css?family=Lato&#038;ver=1603609940' type='text/css' media='all' />
 <script type='text/javascript' src='http://207.148.120.189/wp-content/plugins/saasland-core/assets/js/jquery-3.2.1.min.js?ver=3.4.1' id='jquery-js'></script>
 <script type='text/javascript' src='http://207.148.120.189/wp-content/plugins/advanced-floating-content-lite/public/js/advanced-floating-content-public.js?ver=1.0.0' id='advanced-floating-content-js'></script>
 <script type='text/javascript' src='http://207.148.120.189/wp-content/plugins/slider-revolution/public/assets/js/rbtools.min.js?ver=6.2.22' id='tp-tools-js'></script>
 <script type='text/javascript' src='http://207.148.120.189/wp-content/plugins/slider-revolution/public/assets/js/rs6.min.js?ver=6.2.22' id='revmin-js'></script>
+<script type='text/javascript' id='wk-tag-manager-script-js-after'>
+		function shouldTrack(){
+		var trackLoggedIn = false;
+		var loggedIn = false;
+		if(!loggedIn){
+		return true;
+		} else if( trackLoggedIn ) {
+		return true;
+		}
+		return false;
+		}
+				function hasWKGoogleAnalyticsCookie() {
+		return (new RegExp('wp_wk_ga_untrack_' + document.location.hostname)).test(document.cookie);
+		}
+				if (!hasWKGoogleAnalyticsCookie() && shouldTrack()) {
+		//Google Tag Manager
+		(function (w, d, s, l, i) {
+		w[l] = w[l] || [];
+		w[l].push({
+		'gtm.start':
+		new Date().getTime(), event: 'gtm.js'
+		});
+		var f = d.getElementsByTagName(s)[0],
+		j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+		j.async = true;
+		j.src =
+		'//www.googletagmanager.com/gtm.js?id=' + i + dl;
+		f.parentNode.insertBefore(j, f);
+		})(window, document, 'script', 'dataLayer', 'GTM-M7N6JHV');
+		}
+		
+</script>
 <link rel="https://api.w.org/" href="http://207.148.120.189/wp-json/" /><link rel="alternate" type="application/json" href="http://207.148.120.189/wp-json/wp/v2/tags/12" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://207.148.120.189/xmlrpc.php?rsd" />
-<meta name="generator" content="WordPress 5.5.1" />
+<meta name="generator" content="WordPress 5.5.2" />
 <style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
 		<meta name="generator" content="Powered by Slider Revolution 6.2.22 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
 <link rel="icon" href="http://207.148.120.189/wp-content/uploads/2020/10/cropped-HanaClean_favicon-32x32.png" sizes="32x32" />
@@ -533,14 +565,19 @@
 			$('#'+afc_content_id).hide();
 		});
 	})(jQuery);
-</script><link rel='stylesheet' id='elementor-post-5601-css'  href='http://207.148.120.189/wp-content/uploads/elementor/css/post-5601.css?ver=1603724835' type='text/css' media='all' />
+</script>			<noscript>
+				<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M7N6JHV"
+						height="0" width="0" style="display:none;visibility:hidden"></iframe>
+			</noscript>
+
+			<link rel='stylesheet' id='elementor-post-5601-css'  href='http://207.148.120.189/wp-content/uploads/elementor/css/post-5601.css?ver=1603724835' type='text/css' media='all' />
 <link rel='stylesheet' id='elementor-icons-css'  href='http://207.148.120.189/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.9.1' type='text/css' media='all' />
 <link rel='stylesheet' id='elementor-post-6-css'  href='http://207.148.120.189/wp-content/uploads/elementor/css/post-6.css?ver=1603552680' type='text/css' media='all' />
-<link rel='stylesheet' id='simple-line-icon-css'  href='http://207.148.120.189/wp-content/plugins/saasland-core/assets/vendors/simple-line-icon/simple-line-icons.min.css?ver=5.5.1' type='text/css' media='all' />
-<link rel='stylesheet' id='slick-theme-css'  href='http://207.148.120.189/wp-content/plugins/saasland-core/assets/vendors/slick/slick-theme.css?ver=5.5.1' type='text/css' media='all' />
-<link rel='stylesheet' id='themify-icons-css'  href='http://207.148.120.189/wp-content/plugins/saasland-core/assets/vendors/themify-icon/themify-icons.css?ver=5.5.1' type='text/css' media='all' />
-<link rel='stylesheet' id='saasland-flaticons-css'  href='http://207.148.120.189/wp-content/plugins/saasland-core/assets/vendors/flaticon/flaticon.css?ver=5.5.1' type='text/css' media='all' />
-<link rel='stylesheet' id='google-fonts-1-css'  href='https://fonts.googleapis.com/css?family=Poppins%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;ver=5.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='simple-line-icon-css'  href='http://207.148.120.189/wp-content/plugins/saasland-core/assets/vendors/simple-line-icon/simple-line-icons.min.css?ver=5.5.2' type='text/css' media='all' />
+<link rel='stylesheet' id='slick-theme-css'  href='http://207.148.120.189/wp-content/plugins/saasland-core/assets/vendors/slick/slick-theme.css?ver=5.5.2' type='text/css' media='all' />
+<link rel='stylesheet' id='themify-icons-css'  href='http://207.148.120.189/wp-content/plugins/saasland-core/assets/vendors/themify-icon/themify-icons.css?ver=5.5.2' type='text/css' media='all' />
+<link rel='stylesheet' id='saasland-flaticons-css'  href='http://207.148.120.189/wp-content/plugins/saasland-core/assets/vendors/flaticon/flaticon.css?ver=5.5.2' type='text/css' media='all' />
+<link rel='stylesheet' id='google-fonts-1-css'  href='https://fonts.googleapis.com/css?family=Poppins%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;ver=5.5.2' type='text/css' media='all' />
 <link rel='stylesheet' id='elementor-icons-shared-0-css'  href='http://207.148.120.189/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.12.0' type='text/css' media='all' />
 <link rel='stylesheet' id='elementor-icons-fa-brands-css'  href='http://207.148.120.189/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.12.0' type='text/css' media='all' />
 <link rel='stylesheet' id='elementor-icons-fa-solid-css'  href='http://207.148.120.189/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.12.0' type='text/css' media='all' />
